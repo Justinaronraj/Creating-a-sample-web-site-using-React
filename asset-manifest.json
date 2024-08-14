@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Justinaronraj/Creating-a-sample-web-site-using-React.git/static/css/main.5cc2d4d7.css",
+    "main.js": "/Justinaronraj/Creating-a-sample-web-site-using-React.git/static/js/main.5aafb485.js",
+    "index.html": "/Justinaronraj/Creating-a-sample-web-site-using-React.git/index.html",
+    "main.5cc2d4d7.css.map": "/Justinaronraj/Creating-a-sample-web-site-using-React.git/static/css/main.5cc2d4d7.css.map",
+    "main.5aafb485.js.map": "/Justinaronraj/Creating-a-sample-web-site-using-React.git/static/js/main.5aafb485.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cc2d4d7.css",
+    "static/js/main.5aafb485.js"
+  ]
+}
